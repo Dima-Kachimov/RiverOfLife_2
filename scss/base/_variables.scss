@@ -1,0 +1,63 @@
+// MAIN
+:root {
+  // COLOR
+  --color-primary: #003467;
+  --color-secondary: #007fc3;
+  --color-accent: #ffb951;
+  --color-accent-hover: #ffc107;
+
+  --color-decor-1: #2a7b9b;
+  --color-decor-2: #57c785;
+  --color-decor-3: #eddd53;
+
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-dark: #333333;
+  --color-gray: #555555;
+  --color-muted: #6c757d;
+  --color-blue-link: #0056b3;
+  --color-blue-hover: #003366;
+
+  --background-nav: #fff;
+
+  // FONT
+  --font-small: 12px;
+  --font-base: 14px;
+  --font-medium: 16px;
+  --font-large: 18px;
+  --font-xl: 2.3rem;
+  --font-xxl: 2.5rem;
+
+  // RADIUS
+  --radius-sm: 5px;
+  --radius-md: 7px;
+  --radius-lg: 12px;
+
+  // SHADOW + ANIMATION
+  --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --transition-fast: 0.2s ease-in-out;
+  --transition-normal: 0.3s ease;
+}
+
+:root {
+  // SWIPER
+  --swiper-bg: #f8f8f8;
+  --swiper-text-color: #003568;
+  --swiper-text-secondary: #555;
+  --swiper-btn-bg: #ffd600;
+  --swiper-btn-hover: #ffc107;
+
+  // NEWS
+  --news-bg: #ffffff;
+  --news-title-color: #003366;
+  --news-title-line: #ffc107;
+  --news-card-bg: #fff;
+  --news-card-shadow: rgba(0, 0, 0, 0.1);
+  --news-text-color: #333;
+  --news-date-color: #6c757d;
+  --news-link-color: #0056b3;
+  --news-link-hover: #003366;
+  --btn-bg: #0056b3;
+  --btn-hover-bg: #003366;
+  --btn-text: #fff;
+}
