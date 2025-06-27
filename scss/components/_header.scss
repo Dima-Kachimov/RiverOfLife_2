@@ -5,6 +5,7 @@
   z-index: 10000;
 }
 
+// TOP-BAR
 .top-bar_wrap {
   background: var(--color-primary);
   overflow: hidden;
@@ -92,8 +93,7 @@
   }
 }
 
-//////////////////////////////////////////////////
-
+// NAVIGATION
 .header-nav {
   min-height: 85px;
   display: flex;
@@ -255,8 +255,7 @@
   }
 }
 
-//////////////////////////////////////////////////
-
+// BURGER MOBILE MENU
 .burger {
   display: none;
   flex-direction: column;
